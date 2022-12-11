@@ -1,0 +1,15 @@
+C:\Users\aser\HOMEWORK3\obj\Debug\net6.0\HOMEWORK3.csproj.AssemblyReference.cache
+C:\Users\aser\HOMEWORK3\obj\Debug\net6.0\HOMEWORK3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aser\HOMEWORK3\obj\Debug\net6.0\HOMEWORK3.AssemblyInfoInputs.cache
+C:\Users\aser\HOMEWORK3\obj\Debug\net6.0\HOMEWORK3.AssemblyInfo.cs
+C:\Users\aser\HOMEWORK3\obj\Debug\net6.0\HOMEWORK3.csproj.CoreCompileInputs.cache
+C:\Users\aser\HOMEWORK3\bin\Debug\net6.0\HOMEWORK3.exe
+C:\Users\aser\HOMEWORK3\bin\Debug\net6.0\HOMEWORK3.deps.json
+C:\Users\aser\HOMEWORK3\bin\Debug\net6.0\HOMEWORK3.runtimeconfig.json
+C:\Users\aser\HOMEWORK3\bin\Debug\net6.0\HOMEWORK3.dll
+C:\Users\aser\HOMEWORK3\bin\Debug\net6.0\HOMEWORK3.pdb
+C:\Users\aser\HOMEWORK3\obj\Debug\net6.0\HOMEWORK3.dll
+C:\Users\aser\HOMEWORK3\obj\Debug\net6.0\refint\HOMEWORK3.dll
+C:\Users\aser\HOMEWORK3\obj\Debug\net6.0\HOMEWORK3.pdb
+C:\Users\aser\HOMEWORK3\obj\Debug\net6.0\HOMEWORK3.genruntimeconfig.cache
+C:\Users\aser\HOMEWORK3\obj\Debug\net6.0\ref\HOMEWORK3.dll
